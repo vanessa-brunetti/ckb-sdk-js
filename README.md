@@ -14,6 +14,7 @@
 
 JavaScript SDK for Nervos [CKB](https://github.com/nervosnetwork/ckb).
 
+
 The ckb-sdk-js is still under development and aim for providing low-level APIs of data construction. You should get familiar with CKB transaction structure and RPCs before using it and design your own DApp SDK based on this one.
 
 <details>
@@ -80,10 +81,6 @@ We are going to use [yarn](https://yarnpkg.com/) for the next steps, which is si
 For the developers who are interested in contribution.
 
 # Installation
-
-```sh
-$ yarn add @nervosnetwork/ckb-sdk-core # install the SDK into your project
-```
 
 # Modules
 
